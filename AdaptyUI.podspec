@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'AdaptyUI-forked'
-  s.version          = '2.1.4'
+  s.version          = '2.1.3'
   s.summary          = 'Adapty SDK for iOS.'
 
   s.description      = <<-DESC
